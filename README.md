@@ -26,7 +26,7 @@ The aim of this add-in is solving it.
 
 ## Usage
 
-Scenario 1:
+#### Scenario 1:
 1. Navigate to add-in tab named "VBA Tools"
 2. Click Import button, prompt window should be appeared with list of currently installed add-ins
 3. Choose an add-in where it is required to import files
@@ -34,7 +34,7 @@ Scenario 1:
 5. Select necessary files and click Select
 6. All existed files will be removed from add-in and ".frm", ".cls", ".bas" files will be imported
 
-Scenario 2:
+#### Scenario 2:
 1. Navigate to add-in tab named "VBA Tools"
 2. Click Export button, prompt window should be appeared with list of currently installed add-ins
 3. Choose an add-in which sources you would like to export and click Export on the prompt

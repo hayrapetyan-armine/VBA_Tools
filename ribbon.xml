@@ -1,0 +1,12 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+	<ribbon startFromScratch="false">
+		<tabs>
+			<tab id="VBATools" label="VBA Tools">
+				<group id="Data">
+					<button id="Import" label="Import" imageMso="_3DPerspectiveIncrease" size="large" onAction="Init" />
+					<button id="Export" label="Export" imageMso="_3DPerspectiveDecrease" size="large" onAction="Init" />
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>
